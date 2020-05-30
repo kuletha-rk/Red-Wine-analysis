@@ -1,3 +1,3 @@
 # univariate Analysis
 
-This repository pertains to Exploratory Daya analysis prior to Data Preprocessing.
+This repository pertains to Exploratory Data analysis, prior to Data Preprocessing.
